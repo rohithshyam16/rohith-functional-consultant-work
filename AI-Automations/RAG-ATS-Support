@@ -37,5 +37,5 @@ The RAG pipeline consists of:
 
 ## 🚀 How It Works
 ```plaintext
-User Question → Vector Search → Context Retrieved → LLM Response → ORC Functional Answer
+User Question → Vector Search → Context Retrieved → LLM Response → ATS Functional Answer
 
