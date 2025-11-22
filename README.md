@@ -57,8 +57,7 @@ I focus on creating **scalable, automated, and business-friendly HR solutions** 
 # 📘 Resume
 My latest optimized resume is available here:
 
-📄 **Rohith_Resume.pdf**  
-🖼️ **Rohith_Resume_Image.png**
+📄 **Resume** 
 
 *(Stored in the `/Resume` directory of this repository)*
 
@@ -68,7 +67,7 @@ My latest optimized resume is available here:
 **Email:** rohithshyam16@gmail.com  
 **Location:** Chennai, India  
 **GitHub:** https://github.com/rohith-functional-consultant-work  
-**LinkedIn:** (Add your link here)
+**LinkedIn:** (linkedin.com/in/rohith-r-3a99982a)
 
 ---
 
