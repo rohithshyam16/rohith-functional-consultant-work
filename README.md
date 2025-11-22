@@ -57,10 +57,6 @@ I focus on creating **scalable, automated, and business-friendly HR solutions** 
 # 📘 Resume
 My latest optimized resume is available here:
 
-📄 **Resume** 
-
-*(Stored in the `/Resume` directory of this repository)*
-
 ---
 
 # 📞 Contact
