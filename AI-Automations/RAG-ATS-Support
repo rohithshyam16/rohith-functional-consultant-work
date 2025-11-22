@@ -1,0 +1,41 @@
+# 🤖 RAG-Based ATS Support Assistant  
+### Automated Functional Query Resolution for ATS
+
+This project demonstrates a **Retrieval-Augmented Generation (RAG)**–based assistant that automates answers for common **ATS** functional queries.
+
+---
+
+## 🧠 Objective
+To reduce dependency on L1/L2 support by automatically answering frequent questions such as:
+- “Why is a job offer stuck in approval?”
+- “Why is job requistion not visible to me?”
+- “What is the reason for offer failure?”
+- "How to find the source of the candidate"
+
+This model improves:
+✔ Response accuracy  
+✔ Support efficiency  
+✔ Ticket turnaround time  
+
+---
+
+## 🏗️ Architecture Overview
+The RAG pipeline consists of:
+1. **Document Loader** – basic questions  
+2. **Chunking & Cleaning** – Splitting into knowledge units  
+3. **Vector Database** – Semantic indexing  
+4. **Retriever** – Retrieves the closest ATS solution  
+5. **LLM** – Generates a clean functional answer  
+
+## 📂 Files in This Folder
+- `architecture.png` – RAG workflow diagram  
+- `sample-output.md` – Examples of ATS answers generated  
+- `requirements.txt` – Python libraries  
+- `data/` – Knowledge files (non-sensitive only)
+
+---
+
+## 🚀 How It Works
+```plaintext
+User Question → Vector Search → Context Retrieved → LLM Response → ORC Functional Answer
+
