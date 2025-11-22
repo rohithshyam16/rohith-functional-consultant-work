@@ -1,2 +1,3 @@
 # rohith-functional-consultant-work
-Functional Consulting
+
+HR Technology & Recruitment Systems Specialist with 10+ years of experience, including 3+ years in Oracle Recruiting Cloud (ORC) functional consulting, implementation, and L2 production support. Strong expertise in change request management (CRs), workflow enhancements, UAT, OTBI, HDL, data migration, and product consulting. Proven record of optimizing recruitment operations, driving system adoption, and delivering AI-driven automation solutions using RAG models, LangFlow, and Groq. Recognized for strong stakeholder management and cross-functional collaboration.
