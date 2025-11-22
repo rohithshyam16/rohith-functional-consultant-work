@@ -7,7 +7,7 @@ This space highlights my expertise in **Oracle Recruiting Cloud (ORC)**, **HR au
 ---
 
 ## 🚀 About Me
-I am a Functional Consultant with over **1q years of experience** in HR technology and recruitment systems, including **3+ years specializing in ORC functional implementation, L2 support, change request  management, Product demos and AI-driven automation**.
+I am a Functional Consultant with over **11 years of experience** in HR technology and recruitment systems, including **3+ years specializing in ORC functional implementation, L2 support, change request  management, Product demos and AI-driven automation**.
 
 I focus on creating **scalable, automated, and business-friendly HR solutions** using  Groq, LangFlow, RAG pipelines.
 
