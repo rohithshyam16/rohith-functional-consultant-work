@@ -1,4 +1,4 @@
-# 💼 Rohith R — Functional Consultant (Oracle Recruiting Cloud)  
+# 💼 Rohith R — Functional Consultant (Talent Managment(Oracle Recruiting Cloud Etc)/ HCM)  
 ### AI-Driven HR Technology • ORC Functional Specialist • Product Consulting
 
 Welcome to my professional portfolio repository **rohith-functional-consultant-work**.  
